@@ -56,15 +56,3 @@ Los resultados del entrenamiento y la evaluación del modelo se incorporarán en
 
 Se documentarán los siguientes resultados:
 
-| Indicador | Resultado |
-|---|---|
-| Precisión del modelo | Pendiente de evaluación |
-| Matriz de confusión | Pendiente de evaluación |
-| Pruebas de clasificación | Pendiente de evaluación |
-| Librería Arduino | Pendiente de exportación |
-
-Las evidencias obtenidas se almacenarán en la carpeta `resultados/` y el modelo exportado en `model/`.
-
-## 7. Integración futura
-
-El modelo permitirá identificar el estado de apertura de la caja. Posteriormente, sus predicciones podrán integrarse mediante MQTT con el sistema de monitoreo de cadena de frío.
